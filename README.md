@@ -1,0 +1,4 @@
+pySmallPT
+=========
+
+A Python smallpt
